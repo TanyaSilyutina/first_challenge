@@ -1,36 +1,14 @@
-# first_challenge
-My first UW homework
+# My first UW bootcamp homework
 
-## User Story
+### While refactoring the HW code, I believe I have accomplished the below criteria:
 
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
+* Added semantic HTML elements
+* Moved the elements around the page so that they follow a logical structure 
+* Cleaned up the code by grouping elements into classes
+* Added descriptive alt tags to imgs
 
-## Acceptance Criteria
+### [Deployed Application Page](https://tanyasilyutina.github.io/first_challenge/)
 
-```
-GIVEN a webpage meets accessibility standards
+### Visual of the deployed application:
 
-Completed:
-WHEN I view the source code
-THEN I find semantic HTML elements
-
-Completed:
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-
-Completed:
-WHEN I view the icon and image elements
-THEN I find accessible alt attributes
-
-Completed:
-WHEN I view the heading attributes
-THEN they fall in sequential order
-
-
-Completed:
-WHEN I view the title element
-THEN I find a concise, descriptive title
+![Visual of the deployed application](assets/01-html-css-git-homework-demo.png)
